@@ -1,5 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+  "name": "2025sRusting",
+  "image": "mcr.microsoft.com/devcontainers/rust:1-1-bullseye",
   "waitFor": "onCreateCommand",
   "onCreateCommand": ".devcontainer/setup.sh",
   "updateContentCommand": "cargo build",
