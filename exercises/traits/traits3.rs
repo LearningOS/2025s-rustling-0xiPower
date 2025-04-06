@@ -8,7 +8,7 @@
 // Execute `rustlings hint traits3` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 pub trait Licensed {
     fn licensing_info(&self) -> String {

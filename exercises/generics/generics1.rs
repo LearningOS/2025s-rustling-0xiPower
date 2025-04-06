@@ -6,7 +6,7 @@
 // Execute `rustlings hint generics1` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 fn main() {
     let mut shopping_list: Vec<&str> = Vec::new();

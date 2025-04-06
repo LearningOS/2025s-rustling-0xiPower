@@ -7,7 +7,7 @@
 // Execute `rustlings hint traits5` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 pub trait SomeTrait {
     fn some_function(&self) -> bool {

@@ -3,7 +3,7 @@
 // Execute `rustlings hint macros2` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 // fn main() {
 //     my_macro!();

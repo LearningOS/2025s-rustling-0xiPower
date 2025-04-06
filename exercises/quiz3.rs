@@ -16,7 +16,7 @@
 //
 // Execute `rustlings hint quiz3` or use the `hint` watch subcommand for a hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 // pub struct ReportCard {
 pub struct ReportCard<T> {

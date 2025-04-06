@@ -3,7 +3,7 @@
 // Execute `rustlings hint modules1` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 mod sausage_factory {
     // Don't let anybody outside of this module see this!

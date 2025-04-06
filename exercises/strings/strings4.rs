@@ -7,7 +7,7 @@
 //
 // No hints this time!
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 fn string_slice(arg: &str) {
     println!("{}", arg);

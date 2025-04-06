@@ -21,7 +21,7 @@
 //
 // Execute `rustlings hint arc1` or use the `hint` watch subcommand for a hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 #![forbid(unused_imports)] // Do not change this, (or the next) line.
 use std::sync::Arc;

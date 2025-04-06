@@ -3,7 +3,7 @@
 // Execute `rustlings hint macros4` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 #[rustfmt::skip]
 macro_rules! my_macro {

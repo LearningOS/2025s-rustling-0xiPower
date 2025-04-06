@@ -20,7 +20,7 @@
 //
 // No hints this time!
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 pub enum Command {
     Uppercase,

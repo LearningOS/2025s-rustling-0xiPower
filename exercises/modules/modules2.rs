@@ -7,7 +7,7 @@
 // Execute `rustlings hint modules2` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 mod delicious_snacks {
     // TODO: Fix these use statements

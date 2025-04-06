@@ -8,7 +8,7 @@
 // Execute `rustlings hint lifetimes1` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 // fn longest(x: &str, y: &str) -> &str {
 fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {

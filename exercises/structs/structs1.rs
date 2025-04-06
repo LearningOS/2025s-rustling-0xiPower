@@ -5,7 +5,7 @@
 // Execute `rustlings hint structs1` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 struct ColorClassicStruct {
     // TODO: Something goes here

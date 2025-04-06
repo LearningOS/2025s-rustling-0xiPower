@@ -6,7 +6,7 @@
 // Execute `rustlings hint generics2` or use the `hint` watch subcommand for a
 // hint.
 
-// del -> I AM NOT DONE
+// ACCOMPLISH
 
 struct Wrapper<T> {
     // value: u32,
